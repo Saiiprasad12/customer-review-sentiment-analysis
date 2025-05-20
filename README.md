@@ -56,8 +56,8 @@ To extract actionable insights from bank customer feedback using sentiment analy
 
 ##  Sample Visualizations
 
-> [ View Tableau Dashboard](#)  
- https://public.tableau.com/app/profile/sai.prasad2349/vizzes 
+> [ View Tableau Dashboard](https://public.tableau.com/app/profile/sai.prasad2349/vizzes)  
+
 
 ---
 
@@ -84,5 +84,5 @@ Use this file directly in Tableau to build your dashboard.
 Data Analyst | Python | Tableau | NLP  
 Chennai, India  
 saiprasadvj12@gmail.com  
-[LinkedIn]( https://www.linkedin.com/in/sai-prasad-2056aa182/ ) | [GitHub](#)
+[LinkedIn]( https://www.linkedin.com/in/sai-prasad-2056aa182/ ) | [GitHub](https://github.com/Saiiprasad12)
 
