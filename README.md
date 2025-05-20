@@ -83,6 +83,6 @@ Use this file directly in Tableau to build your dashboard.
 **Sai Prasad**  
 Data Analyst | Python | Tableau | NLP  
 Chennai, India  
-saiprasadvj12@gmail.com (saiprasadvj12@gmail.com)  
+saiprasadvj12@gmail.com 
 [LinkedIn]( https://www.linkedin.com/in/sai-prasad-2056aa182/ ) | [GitHub](https://github.com/Saiiprasad12)
 
